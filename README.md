@@ -1,5 +1,6 @@
 
 <div align="center"> 
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CFF7E1,100:CFF7E1&height=300&text=Seoyoung)
 
 
@@ -49,4 +50,5 @@ Dongguk University MIS (2021.03 ~)
 <br>
 
 <h3 align="center">📊 Github Stats 📊</h3>
+
 ![박서영's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung2222&show_icons=true&theme=radical)
