@@ -45,5 +45,8 @@ Dongguk University MIS (2021.03 ~)
   </a>
 </div>
 
+<br>
+
 <h3 align="center">📊 Github Stats 📊</h3>
-![Seoyoung’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung2222&show_icons=true&theme=radical)
+![Seoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung2222&show_icons=true&theme=radical)
+
