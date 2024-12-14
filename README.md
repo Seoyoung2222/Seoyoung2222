@@ -2,6 +2,7 @@
 <div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CFF7E1,100:CFF7E1&height=300&text=Seoyoung)
 
+
 ## History
 Dongguk University MIS (2021.03 ~)
 
