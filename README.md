@@ -48,6 +48,15 @@ Dongguk University MIS (2021.03 ~)
 
 <br>
 
+<h3 align="center">🏆 Baekjoon Solved Rank 🏆</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nope)](https://solved.ac/nope)
+<a href="https://solved.ac/profile/nope">
+	<img src="http://mazandi.herokuapp.com/api?handle=nope&theme=white" />
+</a>
+
+<br>
+
 <h3 align="center">📊 Github Stats 📊</h3>
 
 ![박서영's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung2222&show_icons=true&theme=radical)
